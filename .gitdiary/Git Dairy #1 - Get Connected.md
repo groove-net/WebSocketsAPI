@@ -1,4 +1,6 @@
-WebSocketd has two methods (send & close) and sends 3 events (onopen, onclose, onmessage)
+https://www.youtube.com/watch?v=ycVgXe6v1VQ
+
+WebSockets has two methods (send & close) and sends 3 events (onopen, onclose, onmessage)
 
 First we create a simple index.html
 
