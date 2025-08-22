@@ -1,1 +1,0 @@
-In this last build phase, we will be building the routing functionality of our application. At the moment we just have clients, yes they are uniquely identified but they can't send messags to each other. Additionally, we need a way to gracefully close out the WebSocket connection if we get that request from our client.
